@@ -1,0 +1,10 @@
+http://localhost:9095/auth.json/login
+{
+	
+	"username":"testsuperadmin@testmail.com",
+	"password":"org"
+}
+
+GroupRestController
+http://localhost:9095/api/group.json/findAllGroupWithActiveStatus
+Authorization:Bearer eyJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJiYXJjbyIsInN1YiI6InRlc3RTdXBlcmFkbWluQHRlc3RtYWlsLmNvbSIsImlhdCI6MTYyMjgwMzg0OH0.82JJAgHz4a_9teuOwQp89rmq32oi6MUNlIQ4yGUCpR6E52n3jHxNgftM8pmQdelKuDEp8cbizWWw2WhP7NxsJQ
